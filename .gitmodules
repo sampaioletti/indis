@@ -1,3 +1,0 @@
-[submodule "libraries/cpprestsdk"]
-	path = libraries/cpprestsdk
-	url = git://github.com/Microsoft/cpprestsdk.git
